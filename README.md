@@ -1,4 +1,4 @@
-# Plagiarism-Detection-Project-UDACITY, Machine Learning Nanodegree with Deployment
+# [Plagiarism-Detection-Project-UDACITY, Machine Learning Engineer Nanodegree with Deployment](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
 
 ### Project Overview

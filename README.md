@@ -6,9 +6,9 @@ In this project, you will be tasked with building a plagiarism detector that exa
 
 This project will be broken down into three main notebooks:
 ### Notebook 1: Data Exploration
-Load in the corpus of plagiarism text data.
-Explore the existing data features and the data distribution.
-This first notebook is not required in your final project submission.
+- Load in the corpus of plagiarism text data.
+- Explore the existing data features and the data distribution.
+- This first notebook is not required in your final project submission.
 ### Notebook 2: Feature Engineering
 Clean and pre-process the text data.
 Define features for comparing the similarity of an answer text and a source text, and extract similarity features.
